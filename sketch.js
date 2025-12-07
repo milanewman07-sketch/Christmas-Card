@@ -14,6 +14,7 @@ let fore5;
 // loading assets
 function preload() {
     bgImg = loadImage("assets/back.png");
+    console.error('back.png failed to load')
     fore1 = loadImage("assets/fore1.png");
     fore2 = loadImage("assets/fore2.png");
     fore3 = loadImage("assets/fore3.png");
