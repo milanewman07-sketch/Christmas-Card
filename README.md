@@ -8,4 +8,4 @@ how to use:
 - maybe scroll in and out a little, get adventurous like that
 - have fun
 
-thanks!
+thanks! 
