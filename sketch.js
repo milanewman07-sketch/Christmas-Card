@@ -43,7 +43,6 @@ function draw() {
     for (let layer of layers) {
         layer.draw(mouseX, mouseY);
     }
-
 }
 
 
