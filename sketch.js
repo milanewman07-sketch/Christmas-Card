@@ -13,13 +13,13 @@ let fore5;
 
 // loading assets
 function preload() {
-    bgImg = loadImage("Christmas-Card/assets/back.png");
-    console.log('Christmas-Card/back.png failed to load')
-    fore1 = loadImage("Christmas-Card/assets/fore1.png");
-    fore2 = loadImage("Christmas-Card/assets/fore2.png");
-    fore3 = loadImage("Christmas-Card/assets/fore3.png");
-    fore4 = loadImage("Christmas-Card/assets/fore4.png");
-    fore5 = loadImage("Christmas-Card/assets/fore5.png");
+    bgImg = loadImage("/Christmas-Card/assets/back.png");
+    console.log('/Christmas-Card/back.png failed to load')
+    fore1 = loadImage("/Christmas-Card/assets/fore1.png");
+    fore2 = loadImage("/Christmas-Card/assets/fore2.png");
+    fore3 = loadImage("/Christmas-Card/assets/fore3.png");
+    fore4 = loadImage("/Christmas-Card/assets/fore4.png");
+    fore5 = loadImage("/Christmas-Card/assets/fore5.png");
 }
 
 // sets up canvas and rendering mode of assets to center instead of corner.
